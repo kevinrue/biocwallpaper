@@ -2,8 +2,9 @@
 .Rhistory
 .RData
 .Ruserdata
-dev
+dev/
 .Rprofile
 biocwallpaper.Rproj
-renv
+renv/
 renv.lock
+originals/
