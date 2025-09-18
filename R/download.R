@@ -36,6 +36,7 @@ download_biocstickers <- function(
   x
 }
 
+#' @importFrom httr GET write_disk
 .download_stickers <- function(urls, where, overwrite) {
   success <- TRUE
   for (url in urls) {
