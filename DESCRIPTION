@@ -3,7 +3,7 @@ Title: Collate BiocStickers
 Version: 0.99.0
 Date: 2025-09-18
 Authors@R: 
-    person("Kevin", "Rue-Albrecht", , "kevinrue67@gmail.com", role = c("aut", "cre"))
+    c(person("Kevin", "Rue-Albrecht", , "kevinrue67@gmail.com", role = c("aut", "cre")))
 Description: Download, crop, and sort BiocStickers by colour, to assemble them
   into various layouts, including the Bioconductor note and a hexagonal layout.
 License: Artistic-2.0

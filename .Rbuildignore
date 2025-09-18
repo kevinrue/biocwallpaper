@@ -3,3 +3,4 @@
 ^dev$
 ^biocwallpaper\.Rproj$
 ^\.Rproj\.user$
+^README\.Rmd$
