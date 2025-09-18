@@ -4,7 +4,10 @@
 .Ruserdata
 dev/
 .Rprofile
-biocwallpaper.Rproj
 renv/
 renv.lock
+*.Rproj
 originals/
+.httr-oauth
+.DS_Store
+.quarto
