@@ -22,7 +22,7 @@ download_biocstickers <- function(
 	biocstickers_readme <- readLines(.biocstickers_readme_url)
 	png_urls <- .get_urls(biocstickers_readme)
 	dir.create(where, showWarnings = FALSE, recursive = TRUE)
-	.download_stickers(urls, where, overwrite)
+	.download_stickers(png_urls, where, overwrite)
 	return(TRUE)
 }
 
