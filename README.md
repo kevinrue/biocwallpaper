@@ -11,6 +11,7 @@ issues](https://img.shields.io/github/issues/kevinrue/biocwallpaper)](https://gi
 pulls](https://img.shields.io/github/issues-pr/kevinrue/biocwallpaper)](https://github.com/kevinrue/biocwallpaper/pulls)
 [![Lifecycle:
 experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html#experimental)
+[![check-bioc](https://github.com/kevinrue/biocwallpaper/actions/workflows/check-bioc.yml/badge.svg)](https://github.com/kevinrue/biocwallpaper/actions/workflows/check-bioc.yml)
 <!-- badges: end -->
 
 The goal of `biocwallpaper` is to provide functions for downloading,
