@@ -1,6 +1,6 @@
 .biocstickers_readme_url <- file.path(
   "https:/",
-  paste0("raw", "githubusercontent", "com", collapse="."),
+  paste("raw", "githubusercontent", "com", sep = "."),
   "Bioconductor",
   "BiocStickers",
   "master",
