@@ -22,20 +22,14 @@ various layouts, including the Bioconductor note and a hexagonal layout.
 
 Get the latest stable `R` release from
 [CRAN](http://cran.r-project.org/). Then install `biocwallpaper` from
-[Bioconductor](http://bioconductor.org/) using the following code:
+[GitHub](https://github.com/kevinrue/biocwallpaper) using the following
+code:
 
 ``` r
 if (!requireNamespace("BiocManager", quietly = TRUE)) {
     install.packages("BiocManager")
 }
 
-BiocManager::install("biocwallpaper")
-```
-
-And the development version from
-[GitHub](https://github.com/kevinrue/biocwallpaper) with:
-
-``` r
 BiocManager::install("kevinrue/biocwallpaper")
 ```
 
