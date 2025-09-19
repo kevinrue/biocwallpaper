@@ -11,3 +11,6 @@ originals/
 .httr-oauth
 .DS_Store
 .quarto
+inst/doc
+vignettes/*.html
+vignettes/*.R

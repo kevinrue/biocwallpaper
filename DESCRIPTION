@@ -18,3 +18,11 @@ Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.3
 Imports:
   httr
+Suggests: 
+    BiocStyle,
+    knitr,
+    RefManageR,
+    rmarkdown,
+    sessioninfo,
+    testthat
+VignetteBuilder: knitr
